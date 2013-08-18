@@ -1,5 +1,9 @@
 #Code Fellows Rails Class Assignment
 ##2.2 - Rails Introduction
+##2.3 - n/a got code changes directly
+##2.4 - Goal was to add a controller with an action and when client goes to the controller name
+the client will be sent to the action view
+
 This is the finished product, as a result of doing the commands below
 
 1) Create a new rails project.
